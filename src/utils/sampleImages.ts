@@ -1,3 +1,7 @@
+import portraitImage from '../assets/images/sample_portrait_avatar_1790595775255.jpg';
+import sneakerImage from '../assets/images/sample_product_sneaker_1790595787704.jpg';
+import landscapeImage from '../assets/images/sample_landscape_scenery_1790595805308.jpg';
+
 export interface SampleImageDef {
   id: string;
   name: string;
@@ -12,21 +16,21 @@ export const SAMPLE_IMAGES: SampleImageDef[] = [
     name: 'Executive Portrait.jpg',
     category: 'Avatar & Profile',
     description: 'High-res studio headshot for 5 KB portal / resume avatar optimization',
-    src: '/src/assets/images/sample_portrait_avatar_1790595775255.jpg',
+    src: portraitImage,
   },
   {
     id: 'sample-sneaker',
     name: 'Minimalist Sneaker.jpg',
     category: 'Product Catalog',
     description: 'Commercial studio product shot with fine fabric textures and studio lighting',
-    src: '/src/assets/images/sample_product_sneaker_1790595787704.jpg',
+    src: sneakerImage,
   },
   {
     id: 'sample-landscape',
     name: 'Alpine Lake & Mist.jpg',
     category: 'Landscape Photo',
     description: 'Cinematic mountain vista testing gradient fidelity and micro-detail retention',
-    src: '/src/assets/images/sample_landscape_scenery_1790595805308.jpg',
+    src: landscapeImage,
   },
 ];
 
@@ -70,4 +74,3 @@ export async function generateTestBatch(count: number = 50): Promise<File[]> {
 
   return files;
 }
-
