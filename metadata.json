@@ -1,0 +1,6 @@
+{
+  "name": "MicroScale - Batch 50 Image Resizer",
+  "description": "Batch shrink up to 50 images at once to your required size and format (WebP, JPEG, AVIF, PNG) with smart resolution scaling and edge-preserving unsharp mask.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
