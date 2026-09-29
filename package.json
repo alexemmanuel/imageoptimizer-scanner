@@ -41,12 +41,5 @@
   },
   "overrides": {
     "esbuild": "0.28.2"
-  },
-  "allowScripts": {
-    "@google/genai@2.24.0": true,
-    "core-js@3.50.0": true,
-    "esbuild@0.25.12": true,
-    "esbuild@0.28.2": true,
-    "protobufjs@7.6.6": true
   }
 }
