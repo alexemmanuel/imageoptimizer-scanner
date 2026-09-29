@@ -2,10 +2,12 @@
 
 > **IMAGE EDITOR WITH THE SAME QUALITY ASSURANCE AND VIBES – *no perceptible difference from the original; it's only been optimised.***
 
-A dual-function, high-speed web application built with React 19, TypeScript, Vite, and Tailwind CSS. **wildlogic** serves two dedicated workflows directly in the browser with 100% client-side privacy:
+A dual-function, high-speed web application built with React 19, TypeScript, Vite, and Tailwind CSS. **wildlogic** serves two dedicated workflows directly in the browser with 100% client-side privacy.
 
-1. **⚡ High-Speed 50-Image Batch Optimizer**: Shrink photos down to strict file sizes (including 5 KB minimum portal requirements) in WebP, AVIF, JPEG, or PNG with smart dimension scaling and edge unsharp masking.
-2. **📄 Optical Document Scanner Machine**: Upload camera photos of documents, receipts, contracts, or ID cards to produce authentic flatbed scanner results—removing camera shadows, whitening paper, binarizing text, and exporting multi-page PDF documents.
+1. **⚡ High-Speed 50-Image Batch Optimizer**: Shrink photos down to strict file sizes (including 5 KB minimum portal requirements) in WebP, AVIF, JPEG, or PNG with smart dimension scaling and edge-preserving filtering.
+2. **📄 Optical Document Scanner Machine**: Upload camera photos of documents, receipts, contracts, or ID cards to produce authentic flatbed scanner results—removing camera shadows, whitening paper, and enhancing text.
+
+**🌐 [Try wildlogic image optimizer](https://alexemmanuel.github.io/imageoptimizer-scanner/)**
 
 ---
 
