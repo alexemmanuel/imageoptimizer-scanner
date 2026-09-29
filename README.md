@@ -4,8 +4,8 @@
 
 A dual-function, high-speed web application built with React 19, TypeScript, Vite, and Tailwind CSS. **wildlogic** serves two dedicated workflows directly in the browser with 100% client-side privacy.
 
-1. **⚡ High-Speed 50-Image Batch Optimizer**: Shrink photos down to strict file sizes (including 5 KB minimum portal requirements) in WebP, AVIF, JPEG, or PNG with smart dimension scaling and edge-preserving filtering.
-2. **📄 Optical Document Scanner Machine**: Upload camera photos of documents, receipts, contracts, or ID cards to produce authentic flatbed scanner results—removing camera shadows, whitening paper, and enhancing text.
+1. **⚡ High-Speed 50-Image Batch Optimizer**: Shrink photos down to strict file sizes (including 5 KB minimum portal requirements) in WebP, AVIF, JPEG, or PNG with smart dimension scaling and edge-preserving quality.
+2. **📄 Optical Document Scanner Machine**: Upload camera photos of documents, receipts, contracts, or ID cards to produce authentic flatbed scanner results—removing camera shadows, whitening paper, and enhancing text clarity.
 
 **🌐 [Try wildlogic image optimizer](https://alexemmanuel.github.io/imageoptimizer-scanner/)**
 
@@ -44,8 +44,8 @@ A dual-function, high-speed web application built with React 19, TypeScript, Vit
 ### Installation & Run
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/wildlogic.git
-cd wildlogic
+git clone https://github.com/alexemmanuel/imageoptimizer-scanner.git
+cd imageoptimizer-scanner
 
 # Install dependencies
 npm install
